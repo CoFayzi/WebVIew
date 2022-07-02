@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initview() {
+
         btnsearch = findViewById(R.id.btnSearch)
         editText = findViewById(R.id.edit_text)
         webView = findViewById(R.id.web_view)
